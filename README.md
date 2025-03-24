@@ -8,9 +8,10 @@
 
 
 초기 설정. 
-Java(jdk21) ,gralde(빌드)
-Oracle
-spring Boot 
-Spring Security 
-spring Data JPA 
+- Java(jdk21)
+- gralde(빌드)
+- Oracle
+- spring Boot 
+- Spring Security 
+- spring Data JPA 
 
